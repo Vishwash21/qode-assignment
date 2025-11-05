@@ -1,0 +1,15 @@
+# config.yaml - change these values as needed
+hashtags:
+  - nifty50
+  - sensex
+  - intraday
+  - banknifty
+max_per_hashtag: 600
+sample_mode: true        # true -> use simulated tweets (recommended). false -> tries live scraping (may require login/proxy)
+output_dir: "qode_assignments"
+parallelism: 4
+use_transformer_sentiment: false  # set true to use transformers (heavy)
+tfidf_max_features: 2000
+svd_components: 50
+random_seed: 42
+log_level: "INFO"  # options: DEBUG, INFO, WARNING, ERROR, CRITICAL
