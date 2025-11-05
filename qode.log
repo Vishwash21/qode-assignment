@@ -1,0 +1,68 @@
+2025-11-05 16:25:43,028 [INFO] root - Starting scrape (sample_mode=True) for ['nifty50', 'sensex', 'intraday', 'banknifty']
+2025-11-05 16:25:43,033 [INFO] scraper - Generated 600 sample tweets for nifty50
+2025-11-05 16:25:43,043 [INFO] scraper - Generated 600 sample tweets for sensex
+2025-11-05 16:25:43,049 [INFO] scraper - Generated 600 sample tweets for intraday
+2025-11-05 16:25:43,053 [INFO] scraper - Generated 600 sample tweets for banknifty
+2025-11-05 16:25:43,054 [INFO] root - Processing records into DataFrame
+2025-11-05 16:25:43,127 [INFO] processor - Deduplicated tweets: 2400 -> 60
+2025-11-05 16:25:43,316 [INFO] processor - Wrote 60 rows to ..\qode_output\data\clean_tweets_20251105_1055.parquet
+2025-11-05 16:25:43,317 [INFO] root - Analyzing DataFrame
+2025-11-05 16:25:43,333 [INFO] analyzer - TF-IDF matrix shape: (60, 84)
+2025-11-05 16:25:43,380 [INFO] analyzer - Reduced TF-IDF to 50 components
+2025-11-05 16:25:43,405 [INFO] analyzer - Analysis complete for 60 rows
+2025-11-05 16:25:43,413 [INFO] processor - Wrote 60 rows to ..\qode_output\data\analyzed_signals_20251105_1055.parquet
+2025-11-05 16:25:43,917 [INFO] visualizer - Saved timeseries plot to ..\qode_output\sample_output\composite_20251105_1055.png
+2025-11-05 16:25:44,251 [INFO] visualizer - Saved correlation heatmap to ..\qode_output\sample_output\corr_20251105_1055.png
+2025-11-05 16:25:44,262 [INFO] root - Saved sample CSV to ..\qode_output\sample_output\signals_sample_20251105_1055.csv
+2025-11-05 16:25:44,263 [INFO] root - Pipeline complete. Outputs in ..\qode_output
+2025-11-05 16:26:53,708 [INFO] root - Starting scrape (sample_mode=True) for ['nifty50', 'sensex', 'intraday', 'banknifty']
+2025-11-05 16:26:53,713 [INFO] scraper - Generated 600 sample tweets for nifty50
+2025-11-05 16:26:53,724 [INFO] scraper - Generated 600 sample tweets for sensex
+2025-11-05 16:26:53,729 [INFO] scraper - Generated 600 sample tweets for intraday
+2025-11-05 16:26:53,734 [INFO] scraper - Generated 600 sample tweets for banknifty
+2025-11-05 16:26:53,734 [INFO] root - Processing records into DataFrame
+2025-11-05 16:26:53,766 [INFO] processor - Deduplicated tweets: 2400 -> 60
+2025-11-05 16:26:53,800 [INFO] processor - Wrote 60 rows to ..\qode_output\data\clean_tweets_20251105_1056.parquet
+2025-11-05 16:26:53,800 [INFO] root - Analyzing DataFrame
+2025-11-05 16:26:53,807 [INFO] analyzer - TF-IDF matrix shape: (60, 84)
+2025-11-05 16:26:53,819 [INFO] analyzer - Reduced TF-IDF to 50 components
+2025-11-05 16:26:53,842 [INFO] analyzer - Analysis complete for 60 rows
+2025-11-05 16:26:53,847 [INFO] processor - Wrote 60 rows to ..\qode_output\data\analyzed_signals_20251105_1056.parquet
+2025-11-05 16:26:54,195 [INFO] visualizer - Saved timeseries plot to ..\qode_output\sample_output\composite_20251105_1056.png
+2025-11-05 16:26:54,485 [INFO] visualizer - Saved correlation heatmap to ..\qode_output\sample_output\corr_20251105_1056.png
+2025-11-05 16:26:54,492 [INFO] root - Saved sample CSV to ..\qode_output\sample_output\signals_sample_20251105_1056.csv
+2025-11-05 16:26:54,493 [INFO] root - Pipeline complete. Outputs in ..\qode_output
+2025-11-05 16:29:42,107 [INFO] root - Starting scrape (sample_mode=True) for ['nifty50', 'sensex', 'intraday', 'banknifty']
+2025-11-05 16:29:42,112 [INFO] scraper - Generated 600 sample tweets for nifty50
+2025-11-05 16:29:42,128 [INFO] scraper - Generated 600 sample tweets for sensex
+2025-11-05 16:29:42,136 [INFO] scraper - Generated 600 sample tweets for intraday
+2025-11-05 16:29:42,141 [INFO] scraper - Generated 600 sample tweets for banknifty
+2025-11-05 16:29:42,141 [INFO] root - Processing records into DataFrame
+2025-11-05 16:29:42,170 [INFO] processor - Deduplicated tweets: 2400 -> 60
+2025-11-05 16:29:42,202 [INFO] processor - Wrote 60 rows to qode_assignments\data\clean_tweets_20251105_1059.parquet
+2025-11-05 16:29:42,202 [INFO] root - Analyzing DataFrame
+2025-11-05 16:29:42,208 [INFO] analyzer - TF-IDF matrix shape: (60, 84)
+2025-11-05 16:29:42,221 [INFO] analyzer - Reduced TF-IDF to 50 components
+2025-11-05 16:29:42,241 [INFO] analyzer - Analysis complete for 60 rows
+2025-11-05 16:29:42,249 [INFO] processor - Wrote 60 rows to qode_assignments\data\analyzed_signals_20251105_1059.parquet
+2025-11-05 16:29:42,592 [INFO] visualizer - Saved timeseries plot to qode_assignments\sample_output\composite_20251105_1059.png
+2025-11-05 16:29:42,868 [INFO] visualizer - Saved correlation heatmap to qode_assignments\sample_output\corr_20251105_1059.png
+2025-11-05 16:29:42,874 [INFO] root - Saved sample CSV to qode_assignments\sample_output\signals_sample_20251105_1059.csv
+2025-11-05 16:29:42,874 [INFO] root - Pipeline complete. Outputs in qode_assignments
+2025-11-05 16:30:16,929 [INFO] root - Starting scrape (sample_mode=True) for ['nifty50', 'sensex', 'intraday', 'banknifty']
+2025-11-05 16:30:16,933 [INFO] scraper - Generated 600 sample tweets for nifty50
+2025-11-05 16:30:16,941 [INFO] scraper - Generated 600 sample tweets for sensex
+2025-11-05 16:30:16,959 [INFO] scraper - Generated 600 sample tweets for intraday
+2025-11-05 16:30:16,971 [INFO] scraper - Generated 600 sample tweets for banknifty
+2025-11-05 16:30:16,972 [INFO] root - Processing records into DataFrame
+2025-11-05 16:30:17,022 [INFO] processor - Deduplicated tweets: 2400 -> 60
+2025-11-05 16:30:17,067 [INFO] processor - Wrote 60 rows to qode_assignments\data\clean_tweets_20251105_1100.parquet
+2025-11-05 16:30:17,067 [INFO] root - Analyzing DataFrame
+2025-11-05 16:30:17,071 [INFO] analyzer - TF-IDF matrix shape: (60, 84)
+2025-11-05 16:30:17,083 [INFO] analyzer - Reduced TF-IDF to 50 components
+2025-11-05 16:30:17,105 [INFO] analyzer - Analysis complete for 60 rows
+2025-11-05 16:30:17,110 [INFO] processor - Wrote 60 rows to qode_assignments\data\analyzed_signals_20251105_1100.parquet
+2025-11-05 16:30:17,435 [INFO] visualizer - Saved timeseries plot to qode_assignments\sample_output\composite_20251105_1100.png
+2025-11-05 16:30:17,720 [INFO] visualizer - Saved correlation heatmap to qode_assignments\sample_output\corr_20251105_1100.png
+2025-11-05 16:30:17,725 [INFO] root - Saved sample CSV to qode_assignments\sample_output\signals_sample_20251105_1100.csv
+2025-11-05 16:30:17,725 [INFO] root - Pipeline complete. Outputs in qode_assignments

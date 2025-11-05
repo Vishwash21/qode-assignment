@@ -1,0 +1,12 @@
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib
+seaborn
+nltk
+pyarrow
+pyyaml
+beautifulsoup4
+selenium
+transformers>=4.0.0    # optional, only needed if you enable transformer sentiment
+torch                   # optional, only needed for transformers
