@@ -1,0 +1,61 @@
+username,timestamp,content,likes,retweets,replies,hashtags,mentions,tfidf_signal,sentiment,engagement,composite_signal
+user_nifty50_0,2025-11-05 10:59:42.108172+00:00,strong move in #nifty50 looks neutral traders expect up,379,70,15,['nifty50'],[],0.8435658595981204,1.0,0.705298013245033,0.9079561451637514
+user_nifty50_1,2025-11-05 10:59:42.108172+00:00,#nifty50 showing bullish momentum watch levels price likely up,377,26,43,['nifty50'],[],0.48727156435765284,0.0,0.6291390728476821,0.25782253302782937
+user_nifty50_2,2025-11-05 10:59:42.108172+00:00,market chatter about #nifty50 neutral volume rising,16,7,5,['nifty50'],[],0.7421857323716723,0.0,0.0,0.2968742929486689
+user_nifty50_5,2025-11-05 10:59:42.108172+00:00,strong move in #nifty50 looks bearish traders expect down,388,40,44,['nifty50'],[],0.7097624656640105,1.0,0.6705298013245032,0.8509579663980545
+user_nifty50_6,2025-11-05 10:59:42.108172+00:00,short term nifty50 bearish intraday traders down today,142,39,13,['nifty50'],[],0.4192225071192195,0.0,0.26158940397350994,0.19384794324503882
+user_nifty50_9,2025-11-05 10:59:42.108172+00:00,strong move in #nifty50 looks neutral traders expect down,498,96,5,['nifty50'],[],0.8435658595981204,1.0,0.945364238410596,0.9319627676803078
+user_nifty50_10,2025-11-05 10:59:42.108172+00:00,short term nifty50 neutral intraday traders down today,295,49,45,['nifty50'],[],0.29320879393560073,0.0,0.5314569536423841,0.1704292129384787
+user_nifty50_11,2025-11-05 10:59:42.108172+00:00,strong move in #nifty50 looks bullish traders expect up,338,58,49,['nifty50'],[],0.39059175133769264,1.0,0.6175496688741722,0.7179916674224943
+user_nifty50_14,2025-11-05 10:59:42.108172+00:00,short term nifty50 bullish intraday traders up today,181,53,42,['nifty50'],[],0.0,0.0,0.3493377483443708,0.03493377483443708
+user_nifty50_16,2025-11-05 10:59:42.108172+00:00,#nifty50 showing neutral momentum watch levels price likely up,236,97,17,['nifty50'],[],0.3222887050005197,0.0,0.5132450331125827,0.18023998531146618
+user_nifty50_17,2025-11-05 10:59:42.108172+00:00,short term nifty50 neutral intraday traders up today,431,196,49,['nifty50'],[],0.29320879393560073,0.0,1.0,0.2172835175742403
+user_nifty50_20,2025-11-05 10:59:42.108172+00:00,#nifty50 showing neutral momentum watch levels price likely down,335,127,25,['nifty50'],[],0.3222887050005197,0.0,0.7268211920529801,0.2015976012055059
+user_nifty50_23,2025-11-05 10:59:42.108172+00:00,#nifty50 showing bearish momentum watch levels price likely down,70,130,31,['nifty50'],[],0.36501580592079075,0.0,0.29304635761589404,0.17531095812990571
+user_nifty50_26,2025-11-05 10:59:42.108172+00:00,market chatter about #nifty50 bearish volume rising,270,64,35,['nifty50'],[],0.6029725871751787,0.0,0.5149006622516556,0.29267910109523704
+user_nifty50_29,2025-11-05 10:59:42.108172+00:00,market chatter about #nifty50 bullish volume rising,1,184,46,['nifty50'],[],0.4128256286687704,0.0,0.26821192052980136,0.1919514435204883
+user_sensex_0,2025-11-05 10:59:42.120154+00:00,strong move in #sensex looks neutral traders expect up,379,70,15,['sensex'],[],0.44104028275277807,1.0,0.705298013245033,0.7469459144256145
+user_sensex_1,2025-11-05 10:59:42.120154+00:00,#sensex showing bullish momentum watch levels price likely up,377,26,43,['sensex'],[],0.26249002990760806,0.0,0.6291390728476821,0.16790991924781146
+user_sensex_2,2025-11-05 10:59:42.120154+00:00,market chatter about #sensex neutral volume rising,16,7,5,['sensex'],[],0.6791560961992649,0.0,0.0,0.27166243847970595
+user_sensex_5,2025-11-05 10:59:42.120154+00:00,strong move in #sensex looks bearish traders expect down,388,40,44,['sensex'],[],0.3314444907214312,1.0,0.6705298013245032,0.6996307764210228
+user_sensex_6,2025-11-05 10:59:42.120154+00:00,short term sensex bearish intraday traders down today,142,39,13,['sensex'],[],0.38978292285561345,0.0,0.26158940397350994,0.1820721095395964
+user_sensex_9,2025-11-05 10:59:42.120154+00:00,strong move in #sensex looks neutral traders expect down,498,96,5,['sensex'],[],0.44104028275277807,1.0,0.945364238410596,0.7709525369421709
+user_sensex_10,2025-11-05 10:59:42.120154+00:00,short term sensex neutral intraday traders down today,295,49,45,['sensex'],[],0.47298382616970336,0.0,0.5314569536423841,0.24233922583211975
+user_sensex_11,2025-11-05 10:59:42.120154+00:00,strong move in #sensex looks bullish traders expect up,338,58,49,['sensex'],[],0.012273776395113234,1.0,0.6175496688741722,0.5666644774454626
+user_sensex_14,2025-11-05 10:59:42.120154+00:00,short term sensex bullish intraday traders up today,181,53,42,['sensex'],[],0.23667186261811307,0.0,0.3493377483443708,0.1296025198816823
+user_sensex_16,2025-11-05 10:59:42.120154+00:00,#sensex showing neutral momentum watch levels price likely up,236,97,17,['sensex'],[],0.08566854670141202,0.0,0.5132450331125827,0.08559192199182308
+user_sensex_17,2025-11-05 10:59:42.120154+00:00,short term sensex neutral intraday traders up today,431,196,49,['sensex'],[],0.47298382616970336,0.0,1.0,0.2891935304678813
+user_sensex_20,2025-11-05 10:59:42.120154+00:00,#sensex showing neutral momentum watch levels price likely down,335,127,25,['sensex'],[],0.08566854670141202,0.0,0.7268211920529801,0.10694953788586284
+user_sensex_23,2025-11-05 10:59:42.120154+00:00,#sensex showing bearish momentum watch levels price likely down,70,130,31,['sensex'],[],0.1402342714707459,0.0,0.29304635761589404,0.08539834434988777
+user_sensex_26,2025-11-05 10:59:42.120154+00:00,market chatter about #sensex bearish volume rising,270,64,35,['sensex'],[],0.3447355562131582,0.0,0.5149006622516556,0.18938428871042884
+user_sensex_29,2025-11-05 10:59:42.120154+00:00,market chatter about #sensex bullish volume rising,1,184,46,['sensex'],[],0.4154189221518946,0.0,0.26821192052980136,0.19298876091373798
+user_intraday_0,2025-11-05 10:59:42.128692+00:00,strong move in #intraday looks neutral traders expect up,379,70,15,['intraday'],[],0.7805073244702759,1.0,0.705298013245033,0.8827327311126136
+user_intraday_1,2025-11-05 10:59:42.128692+00:00,#intraday showing bullish momentum watch levels price likely up,377,26,43,['intraday'],[],0.5911318224748785,0.0,0.6291390728476821,0.2993666362747196
+user_intraday_2,2025-11-05 10:59:42.128692+00:00,market chatter about #intraday neutral volume rising,16,7,5,['intraday'],[],0.9999999999999999,0.0,0.0,0.39999999999999997
+user_intraday_5,2025-11-05 10:59:42.128692+00:00,strong move in #intraday looks bearish traders expect down,388,40,44,['intraday'],[],0.6481890506988706,1.0,0.6705298013245032,0.8263286004119986
+user_intraday_6,2025-11-05 10:59:42.128692+00:00,short term intraday bearish intraday traders down today,142,39,13,['intraday'],[],0.5555612401271657,0.0,0.26158940397350994,0.24838343644821728
+user_intraday_9,2025-11-05 10:59:42.128692+00:00,strong move in #intraday looks neutral traders expect down,498,96,5,['intraday'],[],0.7805073244702759,1.0,0.945364238410596,0.90673935362917
+user_intraday_10,2025-11-05 10:59:42.128692+00:00,short term intraday neutral intraday traders down today,295,49,45,['intraday'],[],0.5009429967843071,0.0,0.5314569536423841,0.25352289407796125
+user_intraday_11,2025-11-05 10:59:42.128692+00:00,strong move in #intraday looks bullish traders expect up,338,58,49,['intraday'],[],0.3244970907359705,1.0,0.6175496688741722,0.6915538031818055
+user_intraday_14,2025-11-05 10:59:42.128692+00:00,short term intraday bullish intraday traders up today,181,53,42,['intraday'],[],0.15001540003751068,0.0,0.3493377483443708,0.09493993484944135
+user_intraday_16,2025-11-05 10:59:42.128692+00:00,#intraday showing neutral momentum watch levels price likely up,236,97,17,['intraday'],[],0.42973826558275074,0.0,0.5132450331125827,0.2232198095443586
+user_intraday_17,2025-11-05 10:59:42.128692+00:00,short term intraday neutral intraday traders up today,431,196,49,['intraday'],[],0.5009429967843071,0.0,1.0,0.3003771987137228
+user_intraday_20,2025-11-05 10:59:42.128692+00:00,#intraday showing neutral momentum watch levels price likely down,335,127,25,['intraday'],[],0.42973826558275074,0.0,0.7268211920529801,0.24457742543839833
+user_intraday_23,2025-11-05 10:59:42.128692+00:00,#intraday showing bearish momentum watch levels price likely down,70,130,31,['intraday'],[],0.4674328268754049,0.0,0.29304635761589404,0.21627776651175137
+user_intraday_26,2025-11-05 10:59:42.128692+00:00,market chatter about #intraday bearish volume rising,270,64,35,['intraday'],[],0.7923348665806093,0.0,0.5149006622516556,0.3684240128574093
+user_intraday_29,2025-11-05 10:59:42.128692+00:00,market chatter about #intraday bullish volume rising,1,184,46,['intraday'],[],0.6042491031500132,0.0,0.26821192052980136,0.26852083331298543
+user_banknifty_0,2025-11-05 10:59:42.136926+00:00,strong move in #banknifty looks neutral traders expect up,379,70,15,['banknifty'],[],0.8499677293049656,1.0,0.705298013245033,0.9105168930464895
+user_banknifty_1,2025-11-05 10:59:42.136926+00:00,#banknifty showing bullish momentum watch levels price likely up,377,26,43,['banknifty'],[],0.5364049629843457,0.0,0.6291390728476821,0.2774758924785065
+user_banknifty_2,2025-11-05 10:59:42.136926+00:00,market chatter about #banknifty neutral volume rising,16,7,5,['banknifty'],[],0.49105970772684293,0.0,0.0,0.1964238830907372
+user_banknifty_5,2025-11-05 10:59:42.136926+00:00,strong move in #banknifty looks bearish traders expect down,388,40,44,['banknifty'],[],0.7157793314798947,1.0,0.6705298013245032,0.8533647127244083
+user_banknifty_6,2025-11-05 10:59:42.136926+00:00,short term banknifty bearish intraday traders down today,142,39,13,['banknifty'],[],0.5170039337002047,0.0,0.26158940397350994,0.23296051387743288
+user_banknifty_9,2025-11-05 10:59:42.136926+00:00,strong move in #banknifty looks neutral traders expect down,498,96,5,['banknifty'],[],0.8499677293049656,1.0,0.945364238410596,0.9345235155630459
+user_banknifty_10,2025-11-05 10:59:42.136926+00:00,short term banknifty neutral intraday traders down today,295,49,45,['banknifty'],[],0.4842613306113883,0.0,0.5314569536423841,0.24685022760879374
+user_banknifty_11,2025-11-05 10:59:42.136926+00:00,strong move in #banknifty looks bullish traders expect up,338,58,49,['banknifty'],[],0.39660861715357687,1.0,0.6175496688741722,0.7203984137488479
+user_banknifty_14,2025-11-05 10:59:42.136926+00:00,short term banknifty bullish intraday traders up today,181,53,42,['banknifty'],[],0.4260853354693298,0.0,0.3493377483443708,0.205367909022169
+user_banknifty_16,2025-11-05 10:59:42.136926+00:00,#banknifty showing neutral momentum watch levels price likely up,236,97,17,['banknifty'],[],0.374009824305384,0.0,0.5132450331125827,0.2009284330334119
+user_banknifty_17,2025-11-05 10:59:42.136926+00:00,short term banknifty neutral intraday traders up today,431,196,49,['banknifty'],[],0.4842613306113883,0.0,1.0,0.29370453224455534
+user_banknifty_20,2025-11-05 10:59:42.136926+00:00,#banknifty showing neutral momentum watch levels price likely down,335,127,25,['banknifty'],[],0.374009824305384,0.0,0.7268211920529801,0.22228604892745163
+user_banknifty_23,2025-11-05 10:59:42.136926+00:00,#banknifty showing bearish momentum watch levels price likely down,70,130,31,['banknifty'],[],0.4141492045474836,0.0,0.29304635761589404,0.19496431758058286
+user_banknifty_26,2025-11-05 10:59:42.136926+00:00,market chatter about #banknifty bearish volume rising,270,64,35,['banknifty'],[],0.2753409669089025,0.0,0.5149006622516556,0.16162645298872658
+user_banknifty_29,2025-11-05 10:59:42.136926+00:00,market chatter about #banknifty bullish volume rising,1,184,46,['banknifty'],[],0.4069825525458718,0.0,0.26821192052980136,0.18961421307132886
